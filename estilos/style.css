@@ -138,6 +138,12 @@ form > a.botao:hover {
 form > a.botao>i {
     font-size: 0.8em;
 }
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+    text-decoration: none;
+}
 
 
 
