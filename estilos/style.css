@@ -25,7 +25,7 @@ main {
     width: 100vw;
 }
 
-#login {
+section#login {
     position: relative;
     top: 50%;
     left: 50%;
@@ -46,7 +46,7 @@ main {
 
 }
 
-#imagem {
+section#login > div#imagem {
     display: block;
     background: #5f2c82 url('../imagens/metal.jpg') no-repeat;
     background-size: cover;
@@ -54,7 +54,7 @@ main {
     height: 200px;
 }
 
-#formulario {
+section#login > div#formulario {
     display: block;
     padding: 10px;
 }
